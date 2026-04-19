@@ -4,10 +4,11 @@ Um scraper para extrair dados de produtos do site Netshoes.
 
 ## Instalação
 
-### 1. Clone o repositório ou navegue até a pasta do projeto
+### 1. Clone o repositório e navegue até a pasta do projeto
 
 ```bash
-cd /path/to/netshoes-scraper
+git clone https://github.com/caetano-dev/netshoes-scraper
+cd netshoes-scraper
 ```
 
 ### 2. Instale as dependências
@@ -69,5 +70,6 @@ Todas as imagens foram baixadas!
 
 ## Prints
 
-![.github/assets/output.png](output)
-![.github/assets/images.png](images)
+![Output do Console](.github/assets/output.png)
+
+![Imagens Extraídas](.github/assets/images.png)
